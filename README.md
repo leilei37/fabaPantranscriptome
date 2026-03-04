@@ -9,3 +9,5 @@ aminoacidcount.R: this script is used to count the amino acid content for each i
 stablegene_preferisoform.R: this script is used to calculate the SD in gene-level and find isoform switch in each gene.
 
 WGCNA.R: this script is used to identify function module.
+
+fig6.R: this script is used for figure 6 visualization.
